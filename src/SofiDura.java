@@ -1,3 +1,3 @@
 public class SofiDura {
-    int x;
+    int x = 3;
 }
